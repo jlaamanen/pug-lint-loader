@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "loader-utils": "^1.0.3",
-    "pug-lint": "^2.4.0"
+    "pug-lint": "github:jlaamanen/pug-lint#bug/validate-attribute-separator-fix"
   }
 }
